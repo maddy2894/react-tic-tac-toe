@@ -57,7 +57,6 @@ class Square extends React.Component {
       );
     }
   }
-  
   // ========================================
   
   ReactDOM.render(
